@@ -8,3 +8,10 @@ Now I'm following a certified independent study program with Learning path **Mac
 If you are interested to connect with me, please follow the account[LinkedIn].\
 (https://www.linkedin.com/in/sulaiman-a184a5208/)
 
+<p align="left">
+<a href="https://github.com/slm17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slm17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slm17&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
