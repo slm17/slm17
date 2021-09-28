@@ -4,7 +4,7 @@ My name **Sulaiman**.
 
 I am an **Informatics Engineering** Student at Bina Darma University.
 I am very grateful to be a Student in the Program of **Bangkit Academy Led By Google, Tokopedia, Gojek & Traveloka**, Mobile Development learning path in February 2021 - July 2021.
-Now I'm following a certified independent study **MBKM** programs, **Machine Learning and Web Front-end Developers** learning path at  **Dicoding Academy**.
+Now I'm following a Certified Independent Study **MBKM** programs, **Machine Learning and Web Front-end Developers** learning path at  **Dicoding Academy**.
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
